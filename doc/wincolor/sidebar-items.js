@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["Color","The set of available colors for use with a Windows console."],["Intense","Whether to use intense colors or not."]],"struct":[["Console","A Windows console."]]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["AllocConsole",""],["GetConsoleCP",""],["GetConsoleMode",""],["GetConsoleOutputCP",""],["GetNumberOfConsoleInputEvents",""],["PeekConsoleInputA",""],["ReadConsoleA",""],["ReadConsoleInputA",""],["ReadConsoleInputW",""],["ReadConsoleW",""],["SetConsoleCtrlHandler",""],["SetConsoleMode",""],["WriteConsoleA",""],["WriteConsoleW",""]]};
