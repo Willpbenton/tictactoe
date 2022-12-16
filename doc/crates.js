@@ -1,1 +1,1 @@
-window.ALL_CRATES = ["termcolor","tictactoe","winapi","wincolor"];
+window.ALL_CRATES = ["rustpgm"];
